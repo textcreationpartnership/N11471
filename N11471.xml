@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:014505_0000_0F92E4C1DEB61750"/>
-            <pb facs="tcp:014505_0001_0F92E4C28A969628"/>
+            <pb facs="unknown:014505_0000_0F92E4C1DEB61750"/>
+            <pb facs="unknown:014505_0001_0F92E4C28A969628"/>
             <head>To the Inhabitants of the City and County of New-York.</head>
             <opener>
                <salute>Friends and Fellow-Citizens,</salute>
